@@ -1,0 +1,93 @@
+{
+  "id": "8bb35dc0-e4a0-43de-af7e-190c5c6bf83f",
+  "name": "Flowy\u0027s Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "FlowysDefaultWelcomeIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "buttons": [
+              {
+                "type": "default",
+                "responseText": "Shipping \u0026 Order Status",
+                "displayText": "Shipping \u0026 Order Status"
+              },
+              {
+                "displayText": "Coupons \u0026 Pricing",
+                "type": "default",
+                "responseText": "Coupons \u0026 Pricing"
+              },
+              {
+                "responseText": "Club O",
+                "type": "default",
+                "displayText": "Club O"
+              },
+              {
+                "responseText": "My Account",
+                "type": "default",
+                "displayText": "My Account"
+              },
+              {
+                "responseText": "International",
+                "displayText": "International",
+                "type": "default"
+              },
+              {
+                "responseText": "Returns",
+                "displayText": "Returns",
+                "type": "default"
+              }
+            ],
+            "message": {
+              "header": [
+                {
+                  "text": "Hi I\u0027m Chloe, Overstock\u0027s virtual assistant. Before I get you over to a live specialist, please select the option below that best fits your concern: "
+                }
+              ],
+              "htmlResponse": "true"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi I\u0027m Chloe, Overstock\u0027s virtual assistant. Before I get you over to a live specialist, please select the option below that best fits your concern:"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,187 @@
+{
+  "id": "162e8ecb-c353-4708-8cae-af20b7fd8b58",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "buttons": [
+              {
+                "displayText": "Shipping \u0026 Order Status",
+                "type": "default",
+                "responseText": "Shipping \u0026 Order Status"
+              },
+              {
+                "displayText": "Coupons \u0026 Pricing",
+                "type": "default",
+                "responseText": "Coupons \u0026 Pricing"
+              },
+              {
+                "responseText": "Club O",
+                "displayText": "Club O",
+                "type": "default"
+              },
+              {
+                "type": "default",
+                "responseText": "My Account",
+                "displayText": "My Account"
+              },
+              {
+                "type": "default",
+                "displayText": "International",
+                "responseText": "International"
+              },
+              {
+                "displayText": "Returns",
+                "responseText": "Returns",
+                "type": "default"
+              },
+              {
+                "type": "default",
+                "displayText": "Other",
+                "responseText": "Other"
+              }
+            ],
+            "message": {
+              "htmlResponse": "true",
+              "header": [
+                {
+                  "text": "I\u0027m sorry, I didn\u0027t quite get that. I\u0027m happy to get you over to a live chat specialist, but first we need a little bit of information. Please select the button that most closely fits your concern from the options below, or select \u0027Other\u0027 to skip this step. "
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "message": {
+              "header": [
+                {
+                  "text": "I\u0027m sorry, my functionality is pretty limited right now (I\u0027m a young bot). I\u0027m happy to transfer you to a human agent. Simply pick the option that best explains your concern, or select \u0027Other\u0027 to skip this step: "
+                }
+              ],
+              "htmlResponse": "true"
+            },
+            "buttons": [
+              {
+                "type": "default",
+                "displayText": "Shipping \u0026 Order Status",
+                "responseText": "Shipping \u0026 Order Status"
+              },
+              {
+                "responseText": "Coupons \u0026 Pricing",
+                "type": "default",
+                "displayText": "Coupons \u0026 Pricing"
+              },
+              {
+                "responseText": "Club O",
+                "displayText": "Club O",
+                "type": "default"
+              },
+              {
+                "displayText": "My Account",
+                "responseText": "My Account",
+                "type": "default"
+              },
+              {
+                "type": "default",
+                "responseText": "International",
+                "displayText": "International"
+              },
+              {
+                "displayText": "Returns",
+                "responseText": "Returns",
+                "type": "default"
+              },
+              {
+                "responseText": "Other",
+                "displayText": "Other",
+                "type": "default"
+              }
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "buttons": [
+              {
+                "displayText": "Shipping \u0026 Order Status",
+                "responseText": "Shipping \u0026 Order Status",
+                "type": "default"
+              },
+              {
+                "responseText": "Coupons \u0026 Pricing",
+                "displayText": "Coupons \u0026 Pricing",
+                "type": "default"
+              },
+              {
+                "responseText": "Club O",
+                "type": "default",
+                "displayText": "Club O"
+              },
+              {
+                "responseText": "My Account",
+                "displayText": "My Account",
+                "type": "default"
+              },
+              {
+                "type": "default",
+                "displayText": "International",
+                "responseText": "International"
+              },
+              {
+                "responseText": "Returns",
+                "type": "default",
+                "displayText": "Returns"
+              },
+              {
+                "responseText": "Other",
+                "displayText": "Other",
+                "type": "default"
+              }
+            ],
+            "message": {
+              "htmlResponse": "true",
+              "header": [
+                {
+                  "text": "I\u0027m sorry, I understand your response. Please select the button that most closely fits your concern from the options below, or select \u0027Other\u0027 to skip this step."
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

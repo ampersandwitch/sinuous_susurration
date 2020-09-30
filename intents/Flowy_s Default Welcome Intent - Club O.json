@@ -1,0 +1,44 @@
+{
+  "id": "b307188a-8d65-4e7e-8182-edc072cd098f",
+  "parentId": "8bb35dc0-e4a0-43de-af7e-190c5c6bf83f",
+  "rootParentId": "8bb35dc0-e4a0-43de-af7e-190c5c6bf83f",
+  "name": "Flowy\u0027s Default Welcome Intent - Club O",
+  "auto": true,
+  "contexts": [
+    "FlowysDefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FlowysDefaultWelcomeIntent.FlowysDefaultWelcomeIntent-ClubO",
+      "affectedContexts": [
+        {
+          "name": "awaiting_text_response",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks! So that we can better assist you, please type a brief description of your concern into the text box below:"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

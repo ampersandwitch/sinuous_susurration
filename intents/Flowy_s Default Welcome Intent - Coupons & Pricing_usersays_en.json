@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5136c6d9-ede1-4b08-bcbe-808500b182d2",
+    "data": [
+      {
+        "text": "price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a07437f5-5567-4d9f-aa33-a39676ec73af",
+    "data": [
+      {
+        "text": "coupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed4dfbaf-5e03-404f-a3d2-cfdaf8eeace2",
+    "data": [
+      {
+        "text": "pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad081f44-7073-4aa5-a691-a10e5810ef3b",
+    "data": [
+      {
+        "text": "coupons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b88747a-5946-460f-9a17-42bdc765e988",
+    "data": [
+      {
+        "text": "coupons and pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03fa14a0-a535-45a7-85c1-653beef8d13a",
+    "data": [
+      {
+        "text": "Coupons \u0026 Pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

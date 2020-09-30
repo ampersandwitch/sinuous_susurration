@@ -1,0 +1,59 @@
+{
+  "id": "18370373-bb2d-4530-92d0-d83a45a7b981",
+  "parentId": "8bb35dc0-e4a0-43de-af7e-190c5c6bf83f",
+  "rootParentId": "8bb35dc0-e4a0-43de-af7e-190c5c6bf83f",
+  "name": "Flowy\u0027s Default Welcome Intent - International",
+  "auto": true,
+  "contexts": [
+    "FlowysDefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FlowysDefaultWelcomeIntent.FlowysDefaultWelcomeIntent-International",
+      "affectedContexts": [
+        {
+          "name": "awaiting_text_response",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "65afd213-0c00-4537-98ef-dd0e152eb350",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks! So that we can better assist you, please type a brief description of your concern in the text field below:"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

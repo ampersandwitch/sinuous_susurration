@@ -1,0 +1,128 @@
+[
+  {
+    "id": "dd01b1f9-e828-4d4f-86ba-49c3eb370d0f",
+    "data": [
+      {
+        "text": "Oversized item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3d82322-c27c-4971-b639-f27311c75800",
+    "data": [
+      {
+        "text": "Can I use more than ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " credit card on this order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ab7e92f-9b3e-4c47-8ee6-82f5e0ac8d65",
+    "data": [
+      {
+        "text": "Where can I find tracking information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75b7c602-809f-4fad-9413-6dce522485ca",
+    "data": [
+      {
+        "text": "Why hasn\u0027t my item shipped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b832a9a-d4b1-44ae-bdbd-26585aa35e16",
+    "data": [
+      {
+        "text": "I need to update my shipping address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cea3c2ee-6ad5-411d-b9ad-862c4aabe584",
+    "data": [
+      {
+        "text": "I received the wrong item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "060d5b35-43ae-4439-9d7c-8b62ef074e9c",
+    "data": [
+      {
+        "text": "Missing parts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42089c2b-7ca2-4936-94c3-365f6cf82ce6",
+    "data": [
+      {
+        "text": "Do you ship to Canada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d623b10-7624-41bb-9c30-09718a07c116",
+    "data": [
+      {
+        "text": "I need help returning an item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

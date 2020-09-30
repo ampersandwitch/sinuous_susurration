@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6101a851-5dcb-43eb-8e66-f735c542ccd1",
+    "data": [
+      {
+        "text": "where is my item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "422b40a0-9e56-4cea-9bb7-5dfe683bd76d",
+    "data": [
+      {
+        "text": "where\u0027s my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c59da68-2fee-4b4f-9df1-b26d5e41f3dc",
+    "data": [
+      {
+        "text": "order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69d3ce05-cfc4-4b53-9eb1-e06819f218ae",
+    "data": [
+      {
+        "text": "Shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56ee5f29-f4e1-4a60-b6a3-680a40cd6e8f",
+    "data": [
+      {
+        "text": "Shipping and order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e090e917-1852-44ff-8180-13af0e2c3915",
+    "data": [
+      {
+        "text": "Shipping \u0026 Order Status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

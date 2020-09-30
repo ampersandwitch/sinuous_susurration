@@ -1,0 +1,41 @@
+[
+  {
+    "id": "db0f99b9-9432-4071-8561-fc009f1d1426",
+    "data": [
+      {
+        "text": "Membership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95b76f93-4e10-4447-8dba-6756bedc39f8",
+    "data": [
+      {
+        "text": "Club O Membership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a3fdf28-e478-4228-838e-da2fd08c2947",
+    "data": [
+      {
+        "text": "Club O",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

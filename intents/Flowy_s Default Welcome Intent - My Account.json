@@ -1,0 +1,44 @@
+{
+  "id": "2ef129f8-b01f-4832-a664-34d4988df3ed",
+  "parentId": "8bb35dc0-e4a0-43de-af7e-190c5c6bf83f",
+  "rootParentId": "8bb35dc0-e4a0-43de-af7e-190c5c6bf83f",
+  "name": "Flowy\u0027s Default Welcome Intent - My Account",
+  "auto": true,
+  "contexts": [
+    "FlowysDefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FlowysDefaultWelcomeIntent.FlowysDefaultWelcomeIntent-MyAccount",
+      "affectedContexts": [
+        {
+          "name": "awaiting_text_response",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks! So that we can better assist you, please type a brief description of your concern in the text field below:"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

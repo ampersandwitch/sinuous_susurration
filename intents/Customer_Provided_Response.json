@@ -1,0 +1,60 @@
+{
+  "id": "87f0bcc1-df2a-4505-9625-13601ca2e523",
+  "name": "Customer_Provided_Response",
+  "auto": true,
+  "contexts": [
+    "awaiting_text_response"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you. We anticipate a hold time of less than 5 minutes to speak with a live agent. We appreciate your patience and look forward to connecting with you shortly."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "message": {
+              "htmlResponse": "true",
+              "header": [
+                {
+                  "text": "Thank you. We anticipate a hold time of less than 5 minutes to speak with a live agent. \u003cbr /\u003e\u003cbr /\u003e We appreciate your patience and look forward to connecting with you shortly."
+                }
+              ],
+              "footer": [
+                {
+                  "text": "For answers to frequently asked questions, you can also explore the \u003ca href\u003d\u0027https://help.overstock.com/help/s/\u0027\u003eOverstock Help Center\u003c/a\u003e"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

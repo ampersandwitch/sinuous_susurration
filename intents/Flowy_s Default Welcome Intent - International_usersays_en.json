@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c6414f1c-39b0-40f6-a4b5-9ec7a3b8ce4d",
+    "data": [
+      {
+        "text": "Canada",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fec915b-71e3-47df-9bf1-b8b339a1612c",
+    "data": [
+      {
+        "text": "International",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
